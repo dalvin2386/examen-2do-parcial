@@ -33,6 +33,13 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "La app necesita acceder a tu galería para agregar fotos de productos.",
+          "cameraPermission": "La app necesita acceder a la cámara para tomar fotos de productos."
+        }
       ]
     ],
     "experiments": {
